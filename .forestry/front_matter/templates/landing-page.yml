@@ -82,4 +82,5 @@ fields:
   default: home
 - type: textarea
 pages:
+- hello-nel.md
 - index.md
