@@ -25,7 +25,7 @@ undefined: ''
 date: 2019-04-07 20:07:04 +0000
 menu:
   navigation:
-    weight: 6
+    weight: 4
     title: zvsdvsd
 
 ---
